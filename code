@@ -39,9 +39,6 @@ Buildings
 	*dirt
 		name:Sell dirt!
 		desc:wows, dirt give money!  !<//><q>+0.5 MPS (money per second). <b>Buying large amounts of this is required to unlock new features and progress the game.</b></q>
-		cost:10 money
-		passive:yield 0.5 money
-		cost increase:115%
 		
 Upgrades
 
