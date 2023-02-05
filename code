@@ -14,12 +14,11 @@ CSS
 
 .box1 {
 	position: absolute;
-	top: 0;
-	left: 0;
-	height: 80%;
+	top: 10%;
+	left: 0%;
+	bottom: 20%;
 	width: 20%;
-	border: 5px outset red;
-	background-color: lightblue;
+	background-color: gray;
 }
 .box2 {
 	position: absolute;
@@ -43,7 +42,7 @@ CSS
 	left: 60%;
 	bottom: 20%;
 	width: 20%;
-	background-color: blue;
+	background-color: steelblue;
 }
 .box5 {
 	position: absolute;
@@ -52,6 +51,7 @@ CSS
 	bottom: 20%;
 	width: 20%;
 	background-color: sandybrown;
+}
 .boxtop {
 	position: absolute;
 	top: 0%;
