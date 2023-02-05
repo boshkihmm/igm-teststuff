@@ -18,6 +18,8 @@ CSS
 	left: 0;
 	height: 80%;
 	width: 20%;
+	border: 5px outset red;
+	background-color: lightblue;
 }
 .fullfit {
 	width: 100%;
