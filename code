@@ -42,7 +42,6 @@ Buildings
 		cost:10 money
 		passive:yield 0.5 money
 		cost increase:115%
-		icon:icons1[0,1]
 		
 Upgrades
 
