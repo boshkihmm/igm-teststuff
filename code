@@ -12,42 +12,21 @@ Settings
 	
 CSS
 
-	.halffit
-	{
-		width: 48%;
-	}
-	
-	.fullfit
-	{
-		width: 100%;
-	}
-	
-	.glowgreen
-	{
-		color: green;
-		text-shadow: 0 0 5px green;
-		box-shadow: 0px 0px 15px green;
-		border-color: green;
-	}
-	.glowyellow
-	{
-		color: yellow;
-		text-shadow: 0 0 5px yellow;
-		box-shadow: 0px 0px 15px yellow;
-		border-color: yellow;
-	}
-	.glowlightblue
-	{
-		border-color: powderblue;
-	}
-	.glowpink
-	{
-		border-color: orchid;
-	}
-	.glowred
-	{
-		border-color: red;
-	}
+.unitbox {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 80%;
+	width: 20%;
+}
+.fullfit {
+	width: 100%;
+}
+
+Layout
+
+	*unitbox
+		class:unitbox
 
 Buttons
 	*hi
@@ -70,8 +49,8 @@ Upgrades
 	*TEMPLATE
 		class:fullfit
 		
-	*1
-		name:1
+	*a
+		name:a
 		desc:testing BORDERS!
 		class:
 
