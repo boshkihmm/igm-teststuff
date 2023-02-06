@@ -82,6 +82,7 @@ CSS
 Layout
 
 	*box1
+		header:Upgrades
 		class:box1
 	*box2
 		class:box2
