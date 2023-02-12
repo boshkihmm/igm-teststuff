@@ -159,6 +159,15 @@ Upgrades
 	*TEMPLATE
 		class:fullfit
 
+Shinies
+
+	*ambient1
+	icon:https://www.iconsdb.com/icons/preview/green/square-xxl.png
+	frequency:1
+	duration:10
+	no click
+	movement:anywhere randomAngle fade moveRandom:1
+
 
 
 
