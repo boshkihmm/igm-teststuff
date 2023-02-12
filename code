@@ -1,7 +1,7 @@
 Let's make a game!
 	name:IGM Test Stuff
 	by:Me
-	desc:HeHeHeHa<//>v4
+	desc:HeHeHeHa<//>v5
 	created:1/31/2023
 	updated:1/31/2023
 
@@ -112,7 +112,7 @@ CSS
 
 
 
-.particle
+.thing-icon,.particle
   {
     width:8px;
     height:8px;
@@ -172,7 +172,6 @@ Upgrades
 Shinies
 
 	*ambient1
-	class:particle
 	icon:https://file.garden/Y3WCFJOdi23QPQVx/ambient1.png
 	frequency:1
 	duration:100
