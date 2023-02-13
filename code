@@ -143,14 +143,19 @@ Layout
 		class:boxbottom
 	*box1head
 		class:box1head
+		header:Upgrades
 	*box2head
 		class:box2head
+		header:Upgrades
 	*box3head
 		class:box3head
+		header:Upgrades
 	*box4head
 		class:box4head
+		header:Upgrades
 	*box5head
 		class:box5head
+		header:Upgrades
 
 Buttons
 	*hi
@@ -173,7 +178,7 @@ Shinies
 
 	*ambient1
 	icon:https://file.garden/Y3WCFJOdi23QPQVx/ambient1.png
-	frequency:1
+	frequency:9999999
 	duration:100
 	no click
 	movement:anywhere randomAngle fade moveRandom:0.1
