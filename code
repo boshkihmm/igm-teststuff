@@ -158,7 +158,7 @@ Layout
 		contains:box5head
 	*boxtop
 		class:boxtop
-		contains:number
+		contains:tag:number
 	*boxbottom
 		class:boxbottom
 	*box1head
@@ -183,6 +183,7 @@ Buttons
 Resources
 	*number
 		class:boxnumber
+		tag:number
 
 Buildings
 
