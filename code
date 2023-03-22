@@ -99,7 +99,6 @@ CSS
 	display: flex;
   	align-items: center;
 	justify-content: center;
-	padding-bottom: 5px;
 }
 .box1, .box2, .box3, .box4, .box5 {
 	position: absolute;
