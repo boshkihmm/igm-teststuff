@@ -106,7 +106,7 @@ CSS
 	bottom: 10%;
 	width: 20%;
 }
-.boxnumber {
+.boxdata {
 	position: absolute;
 	left: 35%;
 	right: 35%;
@@ -157,7 +157,7 @@ Layout
 		contains:box5head
 	*boxtop
 		class:boxtop
-		contains:tag:number
+		contains:tag:data
 	*boxbottom
 		class:boxbottom
 	*box1head
@@ -180,9 +180,9 @@ Buttons
 	*hi
 		
 Resources
-	*number
-		class:boxnumber
-		tag:number
+	*data
+		class:boxdata
+		tag:data
 
 Buildings
 
